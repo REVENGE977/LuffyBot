@@ -67,9 +67,11 @@
 <br>
 **Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [LuffySupport](https://discord.gg/wtkjyH9) | Website 
 <br>
-**Votes&nbsp;Links**
+**Votes&nbsp;Links**<br>
 [top.gg](https://top.gg/bot/652156490819436544/vote)
+<br>
 [divinediscordbots](https://divinediscordbots.com/bot/652156490819436544/vote)
+<br>
 [edbl](https://www.edbl.xyz/view/652156490819436544)
 <br>
 <br>
