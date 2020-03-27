@@ -22,8 +22,6 @@
 **Fun Commands**:&nbsp;`memes`,&nbsp;`wasted`
 <br>
 **Bot Commands**:&nbsp;`ping`,&nbsp;`botinfo || info`,&nbsp;`support`,&nbsp;`invite`,&nbsp;`vote`	
-<br>
-**Settings Commands**:&nbsp;`randomwelcomer`,&nbsp;status,&nbsp;support,&nbsp;invite
 <br> 
 **Settings Commands**:&nbsp;`randomwelcomer setup`,&nbsp;`autrole setup`,&nbsp;`roandomwelcomer setup`,&nbsp;invite
 <br>
@@ -33,31 +31,46 @@
 **Explain the difficult commands**
 <br>
 <br>
-**Exampls how can you use serverinfo command**
-**Use `lfyserverinfo` in any channel in your server to get informantion about your server
 **Exampls how can you setup autorole**
+<br>
 **Use: lfyautorole members-`<on-off>` or bots-`<on-off>`**
+<br>
 **Use: lfyautorole setmemberrole1 or 2 or 3 max `rolename` or `@role` or `roleid` to make autorole for members**
+<br>
 **Use: lfyautorole remoevmemberrole1 or 2 or 3 max `rolename` or `@role` or `roleid` to romove autorole for members**
+<br>
 **Use: lfyautorole autorole setbotsrole1 or 2 max `rolename` or `@role` or `roleid` to to make autorole for bots**
+<br>
 **Use: lfyautorole removbotsrole1 or 2 `rolename` or `@role` or `roleid` to remove autorole for bots**
 <br> 
 <br>
 **Exampls how can you setup suggestions room**
- **Use: lfysuggestions `<on-off>` to turn suggestions on or off**
- **Use: lfysuggestions setchannel `#channel` or `channelname` or `channel id` to setup suggestions room
- **Use: lfysuggestions settrueemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
- **Use: lfysuggestions setfalseemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
- **you can add coustom emjis by type lfysuggestions setup**
+<br>
+**Use: lfysuggestions `<on-off>` to turn suggestions on or off**
+<br>
+**Use: lfysuggestions setchannel `#channel` or `channelname` or `channel id` to setup suggestions room
+<br>
+**Use: lfysuggestions settrueemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
+<br>
+**Use: lfysuggestions setfalseemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
+<br>
+**you can add coustom emjis by type lfysuggestions setup**
 <br>
 <br>
- **Exampls how can you setup roandomwelcomer** 
- **Use: lfyroandomwelcomer `<on-off>`**
- **Use: lfyroandomwelcomer setchannel `#channel` or `channelname` or `channel id` to setup roandomwelcomer room**
-**
+<br>
+**Exampls how can you setup roandomwelcomer** 
+<br>
+**Use: lfyroandomwelcomer `<on-off>`**
+<br>
+**Use: lfyroandomwelcomer setchannel `#channel` or `channelname` or `channel id` to setup roandomwelcomer room**
 <br>
 <br>
-**Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [LuffySupport](https://discord.gg/wtkjyH9) | Website
+**Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [LuffySupport](https://discord.gg/wtkjyH9) | Website 
+<br>
+**Votes&nbsp;Links**
+[top.gg](https://top.gg/bot/652156490819436544/vote)
+[divinediscordbots](https://divinediscordbots.com/bot/652156490819436544/vote)
+[edbl](https://www.edbl.xyz/view/652156490819436544)
 <br>
 <br>
 **Status**:
