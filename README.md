@@ -57,7 +57,7 @@
 **
 <br>
 <br>
-**Links**:&nbsp;| [Support Server](https://discord.gg/wtkjyH9) | Website
+**Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [LuffySupport](https://discord.gg/wtkjyH9) | Website
 <br>
 <br>
 **Status**:
