@@ -61,6 +61,7 @@
 	<img 
 		width="380" 
 		height="140" 
+    src="https://cdn.discordapp.com/avatars/652156490819436544/3db5dc4d33f307c7736e825d7c2f9571.png?size=1024" 
 		alt="Luffy Invite">
 </a> | [Support Server](https://discord.gg/wtkjyH9) | Website
 <br>
