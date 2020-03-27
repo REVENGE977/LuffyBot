@@ -57,9 +57,7 @@
 **
 <br>
 <br>
-**Links**:&nbsp; <a href="https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot" >
-  <img src="https://cdn.discordapp.com/avatars/652156490819436544/3db5dc4d33f307c7736e825d7c2f9571.png?size=1024" alt="Luffy Invite" />
-</a>| [Support Server](https://discord.gg/wtkjyH9) | Website
+**Links**:&nbsp;| [Support Server](https://discord.gg/wtkjyH9) | Website
 <br>
 <br>
 **Status**:
