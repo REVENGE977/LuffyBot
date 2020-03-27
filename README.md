@@ -2,7 +2,7 @@
 
 
 
-**LuffyBot. have a lot of images commandsand fun commands and settings commands like autorole and suggestions random welcomer And More
+**LuffyBot. have a lot of images commandsand fun commands and settings commands like autorole and suggestions random welcomer And More**
 <br>
 <br>
 **Luffy Default Prefix**:&nbsp;`lfy`
@@ -30,7 +30,11 @@
 **Modoration Commands**:&nbsp;`ban`,&nbsp;`unban`,&nbsp;`kick`,&nbsp;`purge`
 <br>
 <br>
-**Settings Commands Examples**
+**Explain the difficult commands**
+<br>
+<br>
+**Exampls how can you use serverinfo command**
+**Use `lfyserverinfo` in any channel in your server to get informantion about your server
 **Exampls how can you setup autorole**
 **Use: lfyautorole members-`<on-off>` or bots-`<on-off>`**
 **Use: lfyautorole setmemberrole1 or 2 or 3 max `rolename` or `@role` or `roleid` to make autorole for members**
@@ -38,6 +42,7 @@
 **Use: lfyautorole autorole setbotsrole1 or 2 max `rolename` or `@role` or `roleid` to to make autorole for bots**
 **Use: lfyautorole removbotsrole1 or 2 `rolename` or `@role` or `roleid` to remove autorole for bots**
 <br> 
+<br>
 **Exampls how can you setup suggestions room**
  **Use: lfysuggestions `<on-off>` to turn suggestions on or off**
  **Use: lfysuggestions setchannel `#channel` or `channelname` or `channel id` to setup suggestions room
@@ -45,13 +50,19 @@
  **Use: lfysuggestions setfalseemoji `emoji id` to setup true emoji __Note you can't setup discord emoji only coustom emoji**
  **you can add coustom emjis by type lfysuggestions setup**
 <br>
+<br>
  **Exampls how can you setup roandomwelcomer** 
  **Use: lfyroandomwelcomer `<on-off>`**
  **Use: lfyroandomwelcomer setchannel `#channel` or `channelname` or `channel id` to setup roandomwelcomer room**
 **
 <br>
 <br>
-**Links**:&nbsp;[Invite me](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=102096065&scope=bot) | [Support Server](https://discord.gg/wtkjyH9) | Website
+**Links**:&nbsp; <a href="https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=102096065&scope=bot4">
+	<img 
+		width="380" 
+		height="140" 
+		alt="Luffy Invite">
+</a> | [Support Server](https://discord.gg/wtkjyH9) | Website
 <br>
 <br>
 **Status**:
