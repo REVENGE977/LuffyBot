@@ -19,7 +19,7 @@
 <br>
 **Minecraft Commands**:&nbsp;`achievement` **More SOon**
 <br>
-**Fun Commands**:&nbsp;`memes`,&nbsp;`wasted`
+**Fun Commands**:&nbsp;`memes`
 <br>
 **Bot Commands**:&nbsp;`ping`,&nbsp;`botinfo || info`,&nbsp;`support`,&nbsp;`invite`,&nbsp;`vote`	
 <br> 
