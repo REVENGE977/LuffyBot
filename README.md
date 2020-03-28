@@ -60,12 +60,12 @@
 <br>
 **Exampls how can you setup roandomwelcomer** 
 <br>
-**Use: lfyroandomwelcomer `<on-off>`**
+**Use: lfyrandomwelcomer  `<on-off>`**
 <br>
-**Use: lfyroandomwelcomer setchannel `#channel` or `channelname` or `channel id` to setup roandomwelcomer room**
+**Use: lfyrandomwelcomer setchannel `#channel` or `channelname` or `channel id` to setup roandomwelcomer room**
 <br>
 <br>
-**Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [LuffySupport](https://discord.gg/wtkjyH9) | Website 
+**Links**:&nbsp; [Luffy Invite](https://discordapp.com/oauth2/authorize?client_id=652156490819436544&permissions=8&scope=bot) | [Luffy Support](https://discord.gg/wtkjyH9) | Website 
 <br>
 **Votes&nbsp;Links**<br>
 [top.gg](https://top.gg/bot/652156490819436544/vote)
@@ -79,5 +79,9 @@
 <br>
 <a href="https://top.gg/bot/652156490819436544" >
   <img src="https://top.gg/api/widget/652156490819436544.svg" alt="LuffyBot." />
+</a>
+<br>
+<a href="https://divinediscordbots.com/bot/652156490819436544">
+  <img src="https://divinediscordbots.com/api/widget/652156490819436544.svg" alt="LuffyBot. V2"/>
 </a>
 <br>
